@@ -56,29 +56,7 @@ After launching the AI Dataset Manager, follow the on-screen menu options:
 
 ---
 
-Directory Structure
-AI-Dataset-Manager/
-│── raw_data/                # Stores raw PowerShell scripts and documentation
-│   ├── powershell_scripts/  # Raw PowerShell scripts
-│   ├── txt_docs/            # Text-based documentation files
-│   ├── ms_graph_docs/       # Microsoft Graph API documentation
-│
-│── processed_data/          # Validated and structured dataset in JSONL format
-│
-│── instructions/            # Contains step-by-step guidance
-│   ├── dataset_prep.txt     # Dataset preparation instructions
-│   ├── fine_tuning_steps.txt # Fine-tuning instructions
-│   ├── inference_setup.txt  # Instructions for running AI models
-│
-│── environment_setup/       # Stores environment validation scripts
-│
-│── knowledge_base/          # Stores validated PowerShell and Graph API cmdlets
-│   ├── Verified_Cmdlets.json
-│   ├── Verified_Graph_Cmdlets.json
-│
-│── dependency_installers/   # Stores downloaded dependency installers
-│
-│── AI_Dataset_Manager.ps1   # Main script
+![image](https://github.com/user-attachments/assets/98bf207a-8c6a-4014-9177-c4e1d22e43ca)
 
 ---
 
