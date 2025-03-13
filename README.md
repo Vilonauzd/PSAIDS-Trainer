@@ -1,5 +1,5 @@
 # PSAIDS-Manager
-Powershell AI Dataset Manager (PSAIDS)
+Powershell AI Dataset Manager (PSAIDS) - By - jm@cloudware.host
 
 PSAIDS Manager is a PowerShell-based automation tool for curating, validating, and managing AI training datasets. It is designed specifically for PowerShell scripting and Microsoft Graph API automation, ensuring that models learn only verified, Microsoft-supported syntax.
 
