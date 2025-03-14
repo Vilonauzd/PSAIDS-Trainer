@@ -90,6 +90,9 @@ Instructions
 
 ---
 
+Contact
+Author: jm@cloudware.host
+
 Contribution
 Contributions are welcome. To contribute:
 1. Fork this repository.
