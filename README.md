@@ -17,7 +17,7 @@ Features
 
 Installation
 1. Clone this repository:
-   git clone https://github.com/YOUR-USERNAME/AI-Dataset-Manager.git
+   git clone https://github.com/vilonauzd/AI-Dataset-Manager.git
    cd AI-Dataset-Manager
 
 2. Run the AI Dataset Manager script:
